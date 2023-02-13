@@ -83,7 +83,7 @@ with st.container():
         st.write("##")
         st.write(
             """
-            On my YouTube channel I am creating tutorials for people who:
+            
             - ✔️ Building websites with HTML and CSS
             - ✔️ Building Websites with PYTHON AND FRAMWORKS
             - ✔️ I study more in this field to be perfect
